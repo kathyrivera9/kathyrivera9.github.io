@@ -241,7 +241,7 @@ html {
 }
 
 .menu-toggle {
-  color: #fff;
+  color: #E6E6FA;
   cursor: pointer;
   font-size: 25px;
   position: fixed;
@@ -256,7 +256,7 @@ html {
     top: 0;
     left: 0;
     color: #AA98A9;
-    background-color: #fff;
+    background-color: #E6E6FA;
     width: 60px;
     height: 60px;
     text-align: center;

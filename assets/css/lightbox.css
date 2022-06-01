@@ -10,17 +10,20 @@ html.lb-disable-scrolling {
   padding: 0 8px;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 /* Create four equal columns that floats next to eachother */
 .column {
   float: left;
   width: 25%;
+  padding: 5px;
 }
+
+.row:after {
+  content: "";
+  clear: both;
+  display: table;  
+}
+
+
 
 /* The Modal (background) */
 .modal {

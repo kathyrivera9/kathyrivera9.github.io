@@ -27,7 +27,7 @@ html.lb-disable-scrolling {
   display: none;
   position: fixed;
   z-index: 99999;
-  padding-top: 10px;
+  padding: 10px 62px 0px 62px;
   left: 0;
   top: 0;
   max-width: 100%;
@@ -42,7 +42,7 @@ html.lb-disable-scrolling {
   display: flex;
   background-color: #fefefe;
   margin: auto;
-  padding: 0;
+  padding: 0 0 0 0;
   width: 80%;
   max-width: 100%;
 }

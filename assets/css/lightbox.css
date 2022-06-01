@@ -47,6 +47,8 @@ html.lb-disable-scrolling {
 .modal-content {
   position: relative;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
   background-color: #fefefe;
   margin: auto;
   padding: 0 0 0 0;

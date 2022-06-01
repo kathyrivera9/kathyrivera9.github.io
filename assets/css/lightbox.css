@@ -43,7 +43,7 @@ html.lb-disable-scrolling {
   margin: auto;
   padding: 0;
   width: 80%;
-  max-width: 1200px;
+  max-width: 100%;
 }
 
 /* The Close Button */

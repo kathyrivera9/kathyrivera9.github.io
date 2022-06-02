@@ -115,9 +115,13 @@ html.lb-disable-scrolling {
   color: white;
 }
 
+.demo{
+  float: left;
+}
+  
 img.demo {
-  opacity: 0.6;
-  float: left;  
+  
+  opacity: 0.6; 
 }
 
 .active,

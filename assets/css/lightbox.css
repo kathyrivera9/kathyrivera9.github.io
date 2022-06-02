@@ -10,11 +10,11 @@ html.lb-disable-scrolling {
   padding: 0 8px;
 }
 
-.row:after {
+/*.row:after {
   content: "";
   clear: both;
   display: table;  
-}
+}*/
 
 /* Create four equal columns that floats next to eachother */
 .column {

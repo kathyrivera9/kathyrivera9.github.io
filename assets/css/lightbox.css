@@ -63,10 +63,10 @@ html.lb-disable-scrolling {
   cursor: pointer;
 }
 
-/* Hide the slides by default 
+/* Hide the slides by default */
 .mySlides {
   display: none;
-}*/
+}
 
 /* Next & previous buttons */
 .prev,
@@ -117,6 +117,7 @@ html.lb-disable-scrolling {
 
 img.demo {
   opacity: 0.6;
+  float: left;  
 }
 
 .active,

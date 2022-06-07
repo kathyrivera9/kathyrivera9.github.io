@@ -86,7 +86,7 @@ https://templatemo.com/tm-531-reflux
             <h2>About Me</h2>
             <div class="line-dec"></div>
             <span
-              > 
+              > THIS IS A NEW PAGE I THINK!
             </span>
           </div>
           
@@ -101,7 +101,8 @@ https://templatemo.com/tm-531-reflux
               <div class="col-md-6">
                 <div class="right-text">
                   <h4>My Life</h4>
-                  <p>                  
+                  <p>
+                    ITS FINNA BE COOL!
                   </p>
                 </div>
               </div>
@@ -112,7 +113,8 @@ https://templatemo.com/tm-531-reflux
               <div class="col-md-6">
                 <div class="left-text">
                   <h4>My Education</h4>
-                  <p>  
+                  <p>                    
+                    THIS WILL ALL BE DIFFERENT THOUGH
                   </p>
                 </div>
               </div>
@@ -131,10 +133,78 @@ https://templatemo.com/tm-531-reflux
           <div class="section-heading">
             <h2>My Skills</h2>
             <div class="line-dec"></div>
-            <span>
+            <span>Throughout my college years I was able to learn some of these skills, and as I graduated I took some 
+            self-initiateive and learned some more. I am a fast learner and I enjoy learning. In college, I learned C++, Java, and a bit of HTML/CSS. After college,
+              I dedicated time to learn Python, SQL, and I'm currently learning Tableu. Furthermore these are some certifications I've earned along the way:
             </span>
           </div>
-         
+          
+          <!-- images in Lightbox -->
+          <div class="row">
+       		  <div class = "column">
+              <img src="assets/images/cert1.png" onclick="openModal();currentSlide(1)" class= "hover-shadow">
+            </div>
+            <div class = "column">
+              <img src="assets/images/cert2.png" onclick="openModal();currentSlide(2)" class= "hover-shadow">
+            </div>
+            <div class = "column">
+              <img src="assets/images/cert3.png" onclick="openModal();currentSlide(3)" class= "hover-shadow">
+            </div>
+            <div class= "column">
+              <img src="assets/images/cert4.png" onclick="openModal();currentSlide(4)" class= "hover-shadow">
+            </div>
+          
+     
+            <!-- The Lightbox -->
+            <div id = "myModal" class="modal">
+              <span class = "close cursor" onclick = "closeModal()"> &times;
+              </span>
+              <div class ="modal-content">
+
+                <!-- The images when they're big -->
+                <div class= "mySlides">
+                  <div class = "numbertext">1 / 4</div>
+                  <img src="assets/images/cert1.png" class= "image-slide style= "width:100%">
+                </div>
+
+                <div class= "mySlides">
+                  <div class = "numbertext">2 / 4</div>
+                  <img src="assets/images/cert2.png" class="image-slide" style= "width:100%">
+                </div>
+
+                <div class= "mySlides">
+                  <div class = "numbertext">3 / 4</div>
+                  <img src="assets/images/cert3.png" class="image-slide" style= "width:100%">
+                </div>
+
+                <div class= "mySlides">
+                  <div class = "numbertext">4 / 4</div>
+                  <img src="assets/images/cert4.png" class="image-slide" style= "width:100%">
+                </div>
+
+                <!-- controls -->
+                <a class = "prev" onclick="plusSlides(-1)"> &#10094; </a>
+                <a class = "next" onclick="plusSlides(1)"> &#10095; </a>
+
+                <!-- thumbnails 
+                <div class = "column">
+                  <img class = "demo" src="assets/images/cert1.png" onclick = "currentSlide(1)">
+                </div>
+
+                <div class = "column">
+                  <img class = "demo" src="assets/images/cert2.png" onclick = "currentSlide(2)">
+                </div>
+
+                <div class = "column">
+                  <img class = "demo" src="assets/images/cert3.png" onclick = "currentSlide(3)">
+                </div>
+
+                <div class = "column">
+                  <img class = "demo" src="assets/images/cert4.png" onclick = "currentSlide(4)">
+                </div>  -->
+                                                                                              
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -145,13 +215,13 @@ https://templatemo.com/tm-531-reflux
             <h2>Portfolio</h2>
             <div class="line-dec"></div>
             <span>
-             
-              
+              I have spent most of my life learning and I don't intend to stop. However, I believe the best way to learn is to put my knowledge into practice.
+              Here are some projects I have been working on:
             </span>
           </div>
           <div class="row">
             <p>
-              IMA PUT IN LINKS TO THE PAGES OF MY PROJECTS SO YOULL SEE WHAT IVE BEEN WORKING ON AS WELL AS A DETAILED EXPLANATION!
+              <a href = "https://kathyrivera9.github.io/portfolio"> Click here for an experience!</a>
             </p>
           </div>
         </div>
@@ -244,4 +314,3 @@ https://templatemo.com/tm-531-reflux
     </script>
   </body>                                   
 </html>
-

@@ -1,4 +1,6 @@
-
+layout: page
+title: "Portfolio"
+permalink: /portfolio/
 
 
 <!DOCTYPE html>

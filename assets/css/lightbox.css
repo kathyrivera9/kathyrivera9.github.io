@@ -116,7 +116,7 @@ html.lb-disable-scrolling {
 }
 
 .demo{
-  float: left;
+  display:inline;
 }
   
 img.demo {

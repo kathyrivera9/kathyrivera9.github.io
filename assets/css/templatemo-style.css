@@ -327,7 +327,7 @@ html {
 section.about-me .section-heading span{
     border-radius:20px;
     padding: 10px; 
-    background-color: rgba(170, 152, 169, 0.5);   
+    background-color: rgba(170, 152, 169, 0.8);   
 }
 
 /* Buttons */
@@ -381,6 +381,8 @@ button:hover {
 
 .left-image img,
 .right-image img {
+    display: flex;
+    justify-content: center;
     border-radius: 5px;
 }
 

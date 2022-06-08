@@ -382,9 +382,11 @@ button:hover {
 .left-image img,
 .right-image img {
     position: absolute;
-    top: 50%;
-    bottom: 50;
-    /*justify-content: center;*/
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     border-radius: 5px;
 }
 
@@ -688,6 +690,8 @@ section.contact-me .column {
 section.contact-me .row{
     border-style: dotted;
     border-color: #AA98A9;
+    border-width: 5px;
+    
 }
 
 section.contact-me .row:after {

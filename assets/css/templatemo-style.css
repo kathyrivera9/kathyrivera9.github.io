@@ -314,6 +314,7 @@ html {
 }
 
 .section-heading span {
+    display: block;
     margin-top: 5px;
     font-size: 16px;
     color: #fff;
@@ -324,7 +325,7 @@ html {
 /* About Me */
 
 section.about-me .section-heading span{
-    border-radius:20px;
+    /*border-radius:20px;*/
     padding: 10px; 
     background-color: rgba(0,0,0,0.35);   
 }
@@ -380,14 +381,14 @@ button:hover {
 
 .right-text p {
     border-radius:20px;
-    padding: 10px; 
-    background-color: rgba(0,0,0,0.35);
+    padding: 15px; 
+    background-color: rgba(0,0,0,0.4);
 }
 
 .left-text p {
     border-radius:20px;
-    padding: 10px; 
-    background-color: rgba(0,0,0,0.35);   
+    padding: 20px; 
+    background-color: rgba(0,0,0,0.);5   
 }
 
 .left-image img,

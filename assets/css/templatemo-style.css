@@ -640,14 +640,17 @@ section.contact-me {
 section.contact-me .column {
     float: left;
     width: 33.33%;
-    padding: 10px;
-    text-align: center;
+    padding: 10px;    
 }
 
-section.contact-me .row:after{
+section.contact-me .row:after {
     content: "";
     display: table;
     clear: both;
+}
+
+section.contact-me p {
+    text-align: center;   
 }
 
 .tab { 

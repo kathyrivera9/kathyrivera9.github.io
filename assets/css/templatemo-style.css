@@ -649,10 +649,6 @@ section.contact-me .row:after {
     clear: both;
 }
 
-section.contact-me p {
-    text-align: center;   
-}
-
 section.contact-me a {
     width: 40px;
     height: 40px;

@@ -646,7 +646,8 @@ section.contact-me .column {
     text-align:center;
     font-weight: bold;
     padding: 10px; 
-    background-color: rgba(255,255,255,0.3)
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 20px;        
 }
 
 section.contact-me .row:after {

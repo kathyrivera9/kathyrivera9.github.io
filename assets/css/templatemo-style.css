@@ -634,13 +634,13 @@ figure.snip1321.hover:after {
 
 section.contact-me {
     border-bottom: none;
-    margin: auto;
+    /* margin: auto; */
 }
 
 section.contact-me .column {
     float: left;
     width: 33.33%;
-    padding: 10px;    
+    /*padding: 10px; */    
 }
 
 section.contact-me .row:after {

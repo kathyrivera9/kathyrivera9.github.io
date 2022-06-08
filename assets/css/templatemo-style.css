@@ -382,13 +382,13 @@ button:hover {
 .right-text p {
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(138, 120, 189, 0.5);
+    background-color: rgba(140, 115, 139, 0.5);
 }
 
 .left-text p {
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(138, 120, 189, 0.5);   
+    background-color: rgba(140, 115, 139, 0.5);   
 }
 
 .left-image img,
@@ -417,7 +417,7 @@ button:hover {
 section.my-services .section-heading span{
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(138, 120, 189, 0.5);    
+    background-color: rgba(140, 115, 139, 0.5);    
 }
 
 .my-services .col-md-6 {
@@ -505,7 +505,7 @@ section.my-work .section-heading {
 section.my-work .section-heading span{
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(138, 120, 189, 0.5);
+    background-color: rgba(140, 115, 139, 0.5);
 }
 
 .isotope-wrapper {
@@ -671,8 +671,12 @@ section.contact-me {
     /* margin: auto; */
 }
 
+section.contact-me .section-heading h2{
+    font-size: 25px;
+}
+
 section.contact-me .section-heading span{
-    font-size: 22px;
+    font-size: 24px;
     font-weight: bold;
         
 }

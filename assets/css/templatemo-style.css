@@ -325,9 +325,9 @@ html {
 /* About Me */
 
 section.about-me .section-heading span{
-    /*border-radius:20px;*/
+    border-radius:20px;
     padding: 10px; 
-    background-color: rgba(0,0,0,0.35);   
+    background-color: rgba(170, 152, 169, 0.5);   
 }
 
 /* Buttons */
@@ -382,13 +382,13 @@ button:hover {
 .right-text p {
     border-radius:20px;
     padding: 15px; 
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(170, 152, 169, 0.4);
 }
 
 .left-text p {
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(0,0,0,0.);5   
+    background-color: rgba(170, 152, 169, 0.5);   
 }
 
 .left-image img,
@@ -417,7 +417,7 @@ button:hover {
 section.my-services .section-heading span{
     border-radius:20px;
     padding: 10px; 
-    background-color: rgba(0,0,0,0.35);    
+    background-color: rgba(170, 152, 169, 0.5);    
 }
 
 .my-services .col-md-6 {
@@ -505,7 +505,7 @@ section.my-work .section-heading {
 section.my-work .section-heading span{
     border-radius:20px;
     padding: 10px; 
-    background-color: rgba(0,0,0,0.35);
+    background-color: rgba(170, 152, 169, 0.5);
 }
 
 .isotope-wrapper {
@@ -671,9 +671,13 @@ section.contact-me {
     /* margin: auto; */
 }
 
+section.contact-me .section-heading h2{
+    font-size: 30 px;
+}
+
 section.contact-me .section-heading span{
-    font-size: 22px;
-    font-weight: 500px;
+    font-size: 25px;
+    font-weight: bold;
         
 }
 
@@ -682,7 +686,7 @@ section.contact-me .column {
     float: left;
     width: 33.33%;
     text-align:center;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     padding: 10px; 
     background-color: rgba(255,255,255,0.3);

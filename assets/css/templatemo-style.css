@@ -659,7 +659,7 @@ section.contact-me a {
     height: 40px;
     display: inline-block;
     line-height: 40px;
-    background-color: rgba(0, 0, 0, 0.2);
+    /*background-color: rgba(0, 0, 0, 0.2);*/
     color: #fff;
     font-size: 14px;
     transition: all 0.5s;

@@ -636,8 +636,9 @@ section.contact-me {
     border-bottom: none;
 }
 
-p.indent{
-    margin-left: 30px;
+section.contact-me p {
+    text-align: center
+    
 }
 
 .tab { 

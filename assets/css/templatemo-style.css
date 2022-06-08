@@ -381,14 +381,14 @@ button:hover {
 
 .right-text p {
     border-radius:20px;
-    padding: 15px; 
-    background-color: rgba(170, 152, 169, 0.4);
+    padding: 20px; 
+    background-color: rgba(138, 120, 189, 0.5);
 }
 
 .left-text p {
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(170, 152, 169, 0.5);   
+    background-color: rgba(138, 120, 189, 0.5);   
 }
 
 .left-image img,
@@ -416,8 +416,8 @@ button:hover {
 
 section.my-services .section-heading span{
     border-radius:20px;
-    padding: 10px; 
-    background-color: rgba(170, 152, 169, 0.5);    
+    padding: 20px; 
+    background-color: rgba(138, 120, 189, 0.5);    
 }
 
 .my-services .col-md-6 {
@@ -504,8 +504,8 @@ section.my-work .section-heading {
 
 section.my-work .section-heading span{
     border-radius:20px;
-    padding: 10px; 
-    background-color: rgba(170, 152, 169, 0.5);
+    padding: 20px; 
+    background-color: rgba(138, 120, 189, 0.5);
 }
 
 .isotope-wrapper {
@@ -671,12 +671,8 @@ section.contact-me {
     /* margin: auto; */
 }
 
-section.contact-me .section-heading h2{
-    font-size: 30 px;
-}
-
 section.contact-me .section-heading span{
-    font-size: 25px;
+    font-size: 22px;
     font-weight: bold;
         
 }
@@ -686,7 +682,6 @@ section.contact-me .column {
     float: left;
     width: 33.33%;
     text-align:center;
-    font-size: 22px;
     font-weight: bold;
     padding: 10px; 
     background-color: rgba(255,255,255,0.3);
@@ -697,6 +692,10 @@ section.contact-me .row:after {
     content: "";
     display: table;
     clear: both;
+}
+
+section.contact-me .column p{
+    font-size:22px;   
 }
 
 section.contact-me a {

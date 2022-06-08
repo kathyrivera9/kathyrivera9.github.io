@@ -381,7 +381,7 @@ button:hover {
 
 .left-image img,
 .right-image img {
-    display: flex;
+    display: block;
     justify-content: center;
     border-radius: 5px;
 }
@@ -681,6 +681,11 @@ section.contact-me .column {
     text-align:center;
     font-weight: bold;
     padding: 10px;       
+}
+
+section.contact-me .row{
+    border-style: solid;
+    border-color: #AA98A9;
 }
 
 section.contact-me .row:after {

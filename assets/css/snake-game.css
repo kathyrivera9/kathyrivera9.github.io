@@ -3,13 +3,13 @@
 body {
   font-family: 'Lato', sans-serif;
   overflow-x: hidden;
-  background-color = #AA98A9;
+  color = #AA98A9;
 } 
 
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url('../images/background_pic.jpg');
+  background-image: url('../images/background_pic_edited.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -18,4 +18,12 @@ body {
 
 .header h1 {
   font-size: 40 px; 
+}
+
+h2 {
+  font-size: 25 px; 
+}
+
+span {
+  font-weight: bold; 
 }

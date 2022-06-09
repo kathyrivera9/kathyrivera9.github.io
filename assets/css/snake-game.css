@@ -3,12 +3,16 @@
 body {
   font-family: 'Lato', sans-serif;
   overflow-x: hidden;
+  background-color = #AA98A9;
 } 
 
 .header {
   padding: 80px;
   text-align: center;
-  background-color: #AA98A9;
+  background-image: url('../images/background_pic.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   color: white;
 }
 

@@ -18,10 +18,18 @@ body {
 }
 
 .header h1 {
-  font-size: 40 px; 
+  font-size: 40px; 
 }
 
+.main {
+  padding: 20px; 
+}
 span {
-  font-size: 15 px;
+  font-size: 15px;
   font-weight: bold; 
+}
+
+.main-img {
+  width: 100%;
+  padding: 20px;
 }

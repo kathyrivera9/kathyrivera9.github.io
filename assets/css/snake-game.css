@@ -29,10 +29,30 @@ span {
   font-weight: bold; 
 }
 
-.img {
+.column {
   float: left;
-  max-width: 100px;
-  max-height: 100px;
-  object-fit: cover;
-  padding: 20px;
+  width: 25%;
+  padding: 10px;
 }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column img {
+  height: 250px;
+  width: 100%;
+}
+
+@media screem and (max-width: 600px){
+  .column {
+   width: 50%;
+  }
+  .column img {
+    height: 180px;
+    width: 100%;
+  } 
+}
+

@@ -29,7 +29,10 @@ span {
   font-weight: bold; 
 }
 
-.main-img {
-  width: 100%;
+.img {
+  float: left;
+  width: 100 px;
+  height: 100 px;
+  object-fit: cover;
   padding: 20px;
 }

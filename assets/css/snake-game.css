@@ -42,8 +42,8 @@ span {
 }
 
 .column img {
-  height: 40px;
-  width: 200px;
+  max-height: 50%;
+  max-width: 50%;
 }
 
 @media screem and (max-width: 600px){

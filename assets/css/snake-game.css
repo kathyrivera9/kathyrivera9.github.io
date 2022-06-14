@@ -31,19 +31,14 @@ span {
 
 .column {
   float: left;
-  width: 25%;
+  width: 33.33%;
   padding: 10px;
 }
 
-.row:after {
+.row::after {
   content: "";
   display: table;
   clear: both;
-}
-
-.column img {
-  max-height: 50%;
-  max-width: 50%;
 }
 
 @media screem and (max-width: 600px){

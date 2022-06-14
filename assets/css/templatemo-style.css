@@ -400,7 +400,7 @@ button:hover {
     margin-top: 20px;
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(170, 152, 169, 0.8); 
+    background-color: rgba(170, 152, 169, 0.75); 
 }
 
 .right-image-post .white-button,
@@ -414,7 +414,7 @@ button:hover {
 section.my-services .section-heading span{
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(170, 152, 169, 0.8);    
+    background-color: rgba(170, 152, 169, 0.75);    
 }
 
 .my-services .col-md-6 {
@@ -502,7 +502,23 @@ section.my-work .section-heading {
 section.my-work .section-heading span{
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(170, 152, 169, 0.8);
+    background-color: rgba(170, 152, 169, 0.75);
+}
+
+section.my-work title {
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+/* Portfolio Links */
+section.my-work a:link {
+    color: white;
+    text-decoration: none;
+}
+
+section.my-work a:hover {
+    color: gray;
+    text-decoration: underline;
 }
 
 .isotope-wrapper {

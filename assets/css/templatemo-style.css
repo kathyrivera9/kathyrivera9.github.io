@@ -506,8 +506,9 @@ section.my-work .section-heading span{
 }
 
 section.my-work h6 {
-    font-size: 19px;
+    font-size: 20px;
     font-weight: bolder;
+    padding:
 }
 
 /* Portfolio Links */
@@ -520,7 +521,7 @@ section.my-work a:link {
 }
 
 section.my-work a:hover {
-    color: gray;
+    color: #F5F5F5;
     text-decoration: underline;
 }
 

@@ -505,7 +505,7 @@ section.my-work .section-heading span{
     background-color: rgba(170, 152, 169, 0.75);
 }
 
-section.my-work title {
+section.my-work h6 {
     font-size: 19px;
     font-weight: bolder;
 }

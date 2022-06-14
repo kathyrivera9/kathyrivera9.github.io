@@ -511,8 +511,11 @@ section.my-work h6 {
 }
 
 /* Portfolio Links */
-section.my-work a:link {
+section.my-work a {
     color: white;
+    font-weight: bold;
+}
+section.my-work a:link {
     text-decoration: none;
 }
 

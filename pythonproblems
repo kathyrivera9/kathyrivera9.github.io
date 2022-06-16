@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+      rel="stylesheet"
+    />
+
+    <title>Katherinne's Python Problems</title>
+    <script type="text/javascript" src="all.min.js"></script> 
+    
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" />
+    <link rel="stylesheet" href="assets/css/project.css" />
+    
+  </head>
+
+  <body style = "background-color: #AA98A9;">
+    <!-- The Header -->
+    <div class= "header">
+      <h1> PYTHON PROBLEMS </h1>
+        <p> by: Katherinne Rivera </p>
+    </div>
+    
+    <!-- Content -->
+    <div class = "main">
+      <span>Completed: March 2022 </span>
+        <div class = "row">
+          <div class = "column">
+            <img src = "assets/images/snake_game_pic3.png" style = "width:400px;height:300px;">
+          </div>
+          <div class = "column">
+            <img src = "assets/images/snake_game_pic1.png" style = "width:400px;height:300px;">
+          </div>
+          <div class = "column">
+            <img src = "assets/images/snake_game_pic2.png" style = "width:400px;height:300px;">  
+          </div> 
+        </div>
+        
+      <p>       
+        <b> Python Problems </b> <br>
+        
+        
+        <br>
+        This code can be found on my github.<br>
+        <a href "https://github.com/kathyrivera9/Snake-Game"> https://github.com/kathyrivera9/Snake-Game </a> 
+       
+      </p>
+    </div>
+    
+  </body>                                   
+</html>

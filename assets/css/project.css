@@ -45,7 +45,11 @@ a {
   color: white;
   font-weight: bold;
   text-decoration: underline;
- 
+}
+
+a:hover {
+    color: #F5F5F5;
+    font-weight: bolder;
 }
 
 @media screem and (max-width: 600px){

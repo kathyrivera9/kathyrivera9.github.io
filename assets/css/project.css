@@ -41,6 +41,13 @@ span {
   clear: both;
 }
 
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+ 
+}
+
 @media screem and (max-width: 600px){
   .column {
    width: 50%;

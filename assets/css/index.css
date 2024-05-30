@@ -327,7 +327,7 @@ html {
 section.about-me .section-heading span{
     border-radius:20px;
     padding: 10px; 
-    background-color: rgba(73,39,74, 0.90);   
+    background-color: rgba(73,39,74, 0.45);   
 }
 
 /* Buttons */
@@ -401,7 +401,7 @@ button:hover {
     margin-top: 20px;
     border-radius:20px;
     padding: 20px; 
-    background-color: rgba(73,39,74, 0.30); 
+    background-color: rgba(73,39,74, 0.20); 
 }
 
 .right-image-post .white-button,

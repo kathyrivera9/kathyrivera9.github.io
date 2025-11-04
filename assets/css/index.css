@@ -322,8 +322,8 @@ html {
 section.about-me .section-heading span{
     border-radius:20px;
     padding: 10px; 
-    background-color: rgba(42, 26, 46, 0.45);   
-    box-shadow: 0 4px 10px rgba(219, 80, 255, 0.5)
+    background-color: rgba(58, 45, 61);   
+    box-shadow: 1px 6px 13px rgba(219, 80, 255, 0.5)
 }
 
 /* Buttons */
@@ -681,6 +681,7 @@ section.contact-me a:hover{
     
     
 }
+
 
 
 

@@ -298,21 +298,22 @@ html {
 .section-heading h2 {
     font-size: 30px;
     font-weight: 800;
-    color: #49274a;
+    color: #ffffff;
 }
 
 .section-heading .line-dec {
     width: 60px;
     height: 3px;
-    background-color: #49274a; 
+    background-color: #ffffff; 
     margin: 10px auto;
 }
 
 .section-heading span {
     display: block;
+    box-shadow: 0 4px 10px rgba(219, 80, 255, 0.5)
     margin-top: 5px;
     font-size: 16px;
-    color: #fff;
+    color: #462c4d;
     letter-spacing: 0.5px;
 }
 
@@ -680,4 +681,5 @@ section.contact-me a:hover{
     
     
 }
+
 

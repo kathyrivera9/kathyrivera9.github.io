@@ -310,10 +310,9 @@ html {
 
 .section-heading span {
     display: block;
-    box-shadow: 0 4px 10px rgba(219, 80, 255, 0.5)
     margin-top: 5px;
     font-size: 16px;
-    color: #462c4d;
+    color: #ffffff;
     letter-spacing: 0.5px;
 }
 
@@ -323,7 +322,8 @@ html {
 section.about-me .section-heading span{
     border-radius:20px;
     padding: 10px; 
-    background-color: rgba(73,39,74, 0.45);   
+    background-color: rgba(42, 26, 46, 0.45);   
+    box-shadow: 0 4px 10px rgba(219, 80, 255, 0.5)
 }
 
 /* Buttons */
@@ -681,5 +681,6 @@ section.contact-me a:hover{
     
     
 }
+
 
 

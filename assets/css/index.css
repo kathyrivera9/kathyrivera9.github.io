@@ -288,7 +288,7 @@ html {
     min-height: 100vh;
     padding-bottom: 80px;
     border-bottom: 3px solid rgba(33, 20, 38);
-    box-shadow: 0px 5px 10px rgba(219, 80, 255, 0.5)
+
 }
 
 .section-heading {
@@ -692,6 +692,7 @@ section.contact-me a:hover{
     
     
 }
+
 
 
 

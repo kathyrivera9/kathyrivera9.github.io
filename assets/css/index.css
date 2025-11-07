@@ -122,7 +122,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #49274A;
+    color: #40274a;
 }
 
 /* Sidebar Menu */
@@ -219,7 +219,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #49274A;
+  background-color: #40274a;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -541,7 +541,7 @@ section.contact-me .column {
 
 section.contact-me .row{
     border-style: dotted;
-    border-color: #AA98A9;
+    border-color: #db50ff; /*219, 80, 255*/
     border-width: 5px;
     background-color: rgba(33, 20, 38);
     
@@ -706,6 +706,7 @@ section.contact-me a:hover{
     
     
 }
+
 
 
 
